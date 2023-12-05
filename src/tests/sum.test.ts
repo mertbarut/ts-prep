@@ -1,4 +1,4 @@
-import { sum } from '../../sum'
+import { sum } from '../sum'
 
 test('sum', () => {
     const res = sum(1, 1)
